@@ -55,6 +55,7 @@ body {
 
 #img-div {
     width: 100%;
+    height: auto;
     background-color: #e8f3f1;
     grid-area: img-div;
     font-size: 1vw;
@@ -82,11 +83,6 @@ body {
     }
 }
 
-
-#figure-hold {
-    max-width: 100%;
-    height: auto;
-}
 
 
 #img {
