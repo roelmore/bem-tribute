@@ -5,8 +5,9 @@ body {
     */
     background-color: white;
     font-size: 2vw;
-    margin: 10px 10px 10px 10px;
+    margin: 1% 1% 1% 1%;
     width: 100%;
+    height: 100%;
 
 }
 
@@ -19,7 +20,7 @@ body {
     color: #1e3a35;
     grid-template-columns: 10% 80% 10%;
     grid-template-rows: 10% 20% 50% 20%;
-    grid-gap: 10px;
+    grid-gap: 1%;
     grid-template-areas:
         "sidebar-l header sidebar-r"
         "sidebar-l img-div sidebar-r"
