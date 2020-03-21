@@ -103,6 +103,8 @@ body {
     text-align: center;
     padding: 1vw 1vw 1vw 1vw;
     margin: 1vw 1vw 1vw 1vw;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
 
     animation: fade-in-animation-timeline-header ease 5s;
     animation-iteration-count: 1;
@@ -131,6 +133,8 @@ body {
     padding: 1vw 1vw 1vw 1vw;
     margin: 1vw 1vw 1vw 1vw;
     list-style-position: inside;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
 
     animation: fade-in-animation-timeline ease 5s;
     animation-iteration-count: 1;
@@ -158,6 +162,8 @@ body {
     padding: 1vw 1vw 1vw 1vw;
     margin: 1vw 1vw 1vw 1vw;
     text-align: center;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
 
 
     animation: fade-in-animation-footer ease 5s;
