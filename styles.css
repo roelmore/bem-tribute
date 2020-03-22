@@ -85,12 +85,15 @@ body {
 
 
 
-#img {
+#image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     border: 1px solid #1e3a35;
     border-radius: 50%;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-    max-width: 100%;
+    box-shadow: 0 1vw 2vw 0 rgba(0, 0, 0, 0.2), 0 1vw 3vw 0 rgba(0, 0, 0, 0.19);
     max-height: 100%;
+    max-width: 100%;
     width: auto;
     height: auto;
 }
